@@ -66,3 +66,6 @@ I will continue to use the knowledge that I have gained from LinuxHint.
 
 - Frontend Mentor - [@kxtara](https://www.frontendmentor.io/profile/kxtara)
 - Twitter - [@kiarahoheb](https://www.twitter.com/kiarahoheb)
+
+
+Thank You!
