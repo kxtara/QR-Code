@@ -14,18 +14,14 @@ body{
     height: 100vh;
     margin: 0; 
     background-color: var(--Light-gray);
-}
-
-.flex-container{
-    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.card{
-    width: 16rem;
-    height: 25.5rem;
+
+main{
+    max-width: 16rem;
     border-radius: 20px;
     text-align: center;
     background-color: var(--White);
@@ -35,14 +31,14 @@ body{
 #title{
     font-family: Outfit;
     font-weight: 700;
-    font-size: 17px;
+    font-size: 18px;
     color: var(--Dark-blue);
-    padding-top: 3px;
+    padding: 10px 10px 0px 10px;
 }
 
 #paragraph-text{
     margin-top: -10px;
-    padding: 0px 20px;
+    padding: 9px 10px;
     font-weight: 400;
     font-size: 15px;
     color: var(--Grayish-blue);
